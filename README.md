@@ -1,4 +1,4 @@
-# Reagan Streeter — Electrical & RF Engineer
+# Reagan Streeter — Electrical Engineer
 
 Graduate Electrical Engineer based in Perth, Western Australia, 
 with a university background in RF/microwave systems engineering.
