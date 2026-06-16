@@ -47,6 +47,10 @@ scikit-rf), and other Python-based RF analysis tools.
 Active projects will be documented on GitHub as repositories as they are 
 completed.
 
+## Personal AI Collaboration Policy
+
+[AI Collaboration Policy](https://github.com/reaganstreeter/AI-Collaboration-Policy)
+
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/reagan-streeter-4468761b2/)  
