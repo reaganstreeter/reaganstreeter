@@ -3,7 +3,8 @@
 Graduate Electrical Engineer at Main Roads Western Australia 
 with a background in RF/microwave systems engineering.
 Actively developing RF and communications systems engineering 
-experience to transition into aerospace and/or defence applications.
+experience through a structured learning plan to transition 
+into aerospace and/or defence applications.
 
 ## Education
 
@@ -42,7 +43,7 @@ Defence & aerospace applications
 Structured self-directed learning program targeting RF/electronics/systems 
 engineering roles in defence and space, running alongside the MRWA graduate 
 program. Current focus: RF/microwave foundations, simulation fluency via QUCS-S, 
-scikit-rf), and other Python-based RF analysis tools.
+scikit-rf, and other Python-based RF analysis tools.
 
 Active projects will be documented on GitHub as repositories as they are 
 completed.
