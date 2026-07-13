@@ -9,8 +9,8 @@ into aerospace and/or defence applications.
 ## Education
 
 **Curtin University**  
-B.Eng. Electrical & Electronic Engineering / B.Sc. Physics
-First Class Honours & High Distinction course weighted average
+B.Eng. Electrical & Electronic Engineering (First Class Honours) / B.Sc. Physics
+with High Distinction course weighted average
 
 **Final Year Engineering Thesis**  
 
@@ -29,8 +29,8 @@ Graduate Electrical Engineer — Main Roads Western Australia (Year 2
 of 3). Rotational program covering project scoping and requirements 
 capture, asset management and technical queries, design review against 
 electrical standards, hands-on fault diagnosis, component-level 
-repair, and Factory Acceptance Testing. Developing engineering rigour 
-and professional practice across technically varied environments.
+repair, and Factory Acceptance Testing. Developing professional engineering 
+practice across technically varied environments.
 
 ## Technical Interests
 
